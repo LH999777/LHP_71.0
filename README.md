@@ -1,1 +1,2 @@
-# LHP_71.0
+# PRO-C71-Template
+Project Template Code
